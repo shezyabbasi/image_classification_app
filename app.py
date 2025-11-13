@@ -479,6 +479,6 @@ with tab2:
 st.markdown("---")
 st.markdown("""
     <div style="text-align: center; color: white; padding: 1rem;">
-        <p>Powered by TensorFlow & MobileNetV2 | Built with Streamlit</p>
+        <p>Powered by SR WEB SOlutions</p>
     </div>
 """, unsafe_allow_html=True)
